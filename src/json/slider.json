@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "src": "src/assets/mapaEmiliano/home.png"
+  },
+  {
+    "id": "2",
+    "src": "src/assets/mapaEmiliano/land.png"
+  },
+  {
+    "id": "3",
+    "src": "src/assets/mapaEmiliano/2D.png"
+  },
+  {
+    "id": "4",
+    "src": "src/assets/mapaEmiliano/ann.png"
+  },
+  {
+    "id": "5",
+    "src": "src/assets/mapaEmiliano/VT.png"
+  },
+  {
+    "id": "6",
+    "src": "src/assets/mapaEmiliano/about.png"
+  }
+]
